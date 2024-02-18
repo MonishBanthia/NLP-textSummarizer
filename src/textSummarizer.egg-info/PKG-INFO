@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: textSummarizer
+Version: 0.0.0
+Summary: A small python package for NLP app
+Home-page: https://github.com/MonishBanthia/NLP-textSummarizer
+Author: MonishBanthia
+Author-email: monish.219302463@muj.manipal.edu
+Project-URL: Bug Tracker, https://github.com/MonishBanthia/NLP-textSummarizer/issues
