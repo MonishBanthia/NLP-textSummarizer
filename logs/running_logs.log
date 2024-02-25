@@ -1,1 +1,88 @@
 [2024-02-18 13:24:47,636: INFO: main: Hello]
+[2024-02-25 13:34:52,945: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-25 13:34:52,948: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-25 13:34:52,950: INFO: common: created directory at: artifacts]
+[2024-02-25 13:34:52,952: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-25 13:34:54,200: INFO: 1434958058: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23627009
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "2e7409b328d118a1d37018be788babf8bf9640386387da766ac100e96efa3b93"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8AE4:250E33:2C59B4:45DEBE:65DB41FC
+Accept-Ranges: bytes
+Date: Sun, 25 Feb 2024 13:34:53 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bfi-krnt7300063-BFI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1708868093.269008,VS0,VE664
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b43de2e6728656a576376cd310023e3170273a6b
+Expires: Sun, 25 Feb 2024 13:39:53 GMT
+Source-Age: 0
+
+]
+[2024-02-25 13:41:01,484: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-25 13:41:01,487: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-25 13:41:01,490: INFO: common: created directory at: artifacts]
+[2024-02-25 13:41:01,491: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-25 13:41:01,493: INFO: 1434958058: File already exists of size: ~ 0 KB]
+[2024-02-25 13:41:18,248: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-25 13:41:18,251: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-25 13:41:18,253: INFO: common: created directory at: artifacts]
+[2024-02-25 13:41:18,254: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-25 13:41:18,255: INFO: 1434958058: File already exists of size: ~ 0 KB]
+[2024-02-25 13:43:54,752: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-25 13:43:54,757: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-25 13:43:54,759: INFO: common: created directory at: artifacts]
+[2024-02-25 13:43:54,761: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-25 13:43:54,762: INFO: 1434958058: File already exists of size: ~ 0 KB]
+[2024-02-25 13:44:02,428: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-25 13:44:02,434: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-25 13:44:02,436: INFO: common: created directory at: artifacts]
+[2024-02-25 13:44:02,439: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-25 13:44:02,441: INFO: 1434958058: File already exists of size: ~ 0 KB]
+[2024-02-25 13:46:57,136: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-25 13:46:57,139: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-25 13:46:57,165: INFO: common: created directory at: artifacts]
+[2024-02-25 13:46:57,167: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-25 13:46:58,756: INFO: 1434958058: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8002:261006:2C52DF:458676:65DB44C9
+Accept-Ranges: bytes
+Date: Sun, 25 Feb 2024 13:46:58 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bfi-krnt7300063-BFI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1708868818.426218,VS0,VE231
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 12be1bafc21e9d096bbf1de653e65fca92393985
+Expires: Sun, 25 Feb 2024 13:51:58 GMT
+Source-Age: 0
+
+]
+[2024-02-25 13:47:25,178: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-25 13:47:25,181: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-25 13:47:25,183: INFO: common: created directory at: artifacts]
+[2024-02-25 13:47:25,186: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-25 13:47:25,188: INFO: 1434958058: File already exists of size: ~ 7718 KB]
