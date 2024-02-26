@@ -121,3 +121,96 @@ Source-Age: 0
 [2024-02-26 14:00:04,334: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2024-02-26 16:08:08,128: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-26 16:08:08,131: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-26 16:08:08,133: INFO: common: created directory at: artifacts]
+[2024-02-26 16:08:08,134: INFO: common: created directory at: artifacts/data_validation]
+[2024-02-26 16:08:23,611: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-26 16:08:23,614: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-26 16:08:23,617: INFO: common: created directory at: artifacts]
+[2024-02-26 16:08:23,620: INFO: common: created directory at: artifacts/data_validation]
+[2024-02-26 16:21:00,174: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-02-26 16:21:00,178: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-26 16:21:00,179: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-26 16:21:00,180: INFO: common: created directory at: artifacts]
+[2024-02-26 16:21:00,180: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-26 16:21:00,909: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 7F5C:283009:2F39E6:4BDCBB:65DCBA6B
+Accept-Ranges: bytes
+Date: Mon, 26 Feb 2024 16:21:00 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bfi-krnt7300116-BFI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1708964461.558220,VS0,VE270
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: dfcd335af23c4cc189ed340c4f5ea6387ff5ed0f
+Expires: Mon, 26 Feb 2024 16:26:00 GMT
+Source-Age: 0
+
+]
+[2024-02-26 16:21:01,161: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-02-26 16:21:01,161: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-02-26 16:21:01,162: ERROR: main: name 'DataValidationTrainingPipeline' is not defined]
+Traceback (most recent call last):
+  File "/home/user/NLP-textSummarizer/main.py", line 19, in <module>
+    data_validation = DataValidationTrainingPipeline()
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+NameError: name 'DataValidationTrainingPipeline' is not defined
+[2024-02-26 16:22:05,952: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-02-26 16:22:05,954: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-26 16:22:05,955: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-26 16:22:05,956: INFO: common: created directory at: artifacts]
+[2024-02-26 16:22:05,956: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-26 16:22:06,224: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 7F5C:283009:2F39E6:4BDCBB:65DCBA6B
+Accept-Ranges: bytes
+Date: Mon, 26 Feb 2024 16:22:06 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bfi-krnt7300110-BFI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1708964526.098302,VS0,VE1
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 2fb3b8b680f48bc015ece049dff056b008e7d4d4
+Expires: Mon, 26 Feb 2024 16:27:06 GMT
+Source-Age: 65
+
+]
+[2024-02-26 16:22:06,467: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-02-26 16:22:06,468: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-02-26 16:22:06,469: INFO: common: yaml file: config/config.yaml loaded successfully]
+[2024-02-26 16:22:06,471: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-26 16:22:06,471: INFO: common: created directory at: artifacts]
+[2024-02-26 16:22:06,471: INFO: common: created directory at: artifacts/data_validation]
+[2024-02-26 16:22:06,476: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
